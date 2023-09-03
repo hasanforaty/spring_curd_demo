@@ -1,5 +1,4 @@
 package com.hasan.foraty.cruddemo.entity;
-
 import jakarta.persistence.*;
 
 @Entity
